@@ -41,6 +41,9 @@
                                                         (Confucius - 6th cen. BCE)
                                                         
                                                         
+"When there are sunshowers, there must be a tiger/fox couple wedding ceremoney somewhere."
+                                                        (Traditional Korean/Japanese folklore)
+                                                        
 --Modern Philosophy--
 
 
@@ -48,3 +51,4 @@
                                                                       (Joseph Campbell, American author --20th cen. CE)
                                                                       
                                                                       
+```
